@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "奢华邮轮体验推荐",
+  "description": "专为追求奢华的旅行者推荐高端邮轮体验，提供顶级设施与服务。"
+}
